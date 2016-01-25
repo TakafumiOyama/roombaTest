@@ -4,8 +4,6 @@
 http://www.irobot.lv/uploaded_files/File/iRobot_Roomba_500_Open_Interface_Spec.pdf
 
 
-(Tool)
+(Tool): visual studio 2015, openFrameworks v0.9.0
 
-visual studio 2015
-
-openFrameworks v0.9.0
+(Addon): None
